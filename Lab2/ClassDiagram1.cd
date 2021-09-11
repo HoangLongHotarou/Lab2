@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2.Class.Category">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Class\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Class.Subject">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAgAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Class.Teacher">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACAAAhAAEAAAAAAQAAAAQAAAAAAAAAYAAAAA=</HashCode>
+      <FileName>Class\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.frmAcademic">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECcAAJFBAICBAEgCACAAIBAAAAAAAAIAAAQ=</HashCode>
+      <FileName>frmAcademic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.frmInform">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmInform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.frmSearch">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACCAABAAQACAAAAiAAADBAAgACAgABADAAA=</HashCode>
+      <FileName>frmSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.frmTeacherInfor">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>NAAQAAABECAEABFhBACAQEgCADQQgBABgAAAAAIBEQY=</HashCode>
+      <FileName>frmTeacherInfor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Program">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Properties.Resources">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Properties.Settings">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Search.TeacherManagement">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAgAAA=</HashCode>
+      <FileName>Search\TeacherManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab2.Search.SearchType">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Search\SearchType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

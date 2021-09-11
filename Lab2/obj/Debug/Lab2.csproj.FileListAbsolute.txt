@@ -1,0 +1,13 @@
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.frmAcademic.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.frmInform.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.frmTeacherInfor.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Lab2\Lab2\Lab2\obj\Debug\Lab2.frmSearch.resources
